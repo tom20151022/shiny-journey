@@ -1,2 +1,3 @@
 # shiny-journey
-scripts test
+Scripts test
+Git  test
